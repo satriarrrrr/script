@@ -1,0 +1,11 @@
+# editsubtitle.py
+- Berawal dari kekesalan saya karena subtitle dari film yang mau ditonton ga ada yang bener, yang satu terlalu cepat dan yang lainnya terlalu lambat. Akhirnya bikin script ini buat maju atau mundurin subtitlenya.
+
+# genPass32.py
+- Gara-gara keseringan buka medsos akhirnya bikin script ini buat ngegenerate password random buat medsos sendiri.
+
+# fizzbuzz.py
+- Sebelumnya udah pernah ngerjain soal ini di codingbat.com, tapi kemarin (11-08-2016) disuruh ngerjain ini lagi pas interview di Kurio.
+
+# printfib.py
+- Ini soal pas interview di Kurio juga, sumpah soal ini yang bikin mood saya down seharian. Soalnya gampang, tapi pas ngerjain waktu itu entah kenapa jadi blank banget. Gara-gara blank akhirnya ngerjainnya lama dan hasilnya bener tapi ngaco, malah bikin pake rekursif yang sebenernya sama aja kaya looping biasa (ga jelas). Sampah banget. Dan setelah itu interviewnya langsung selesai. Poor me.
